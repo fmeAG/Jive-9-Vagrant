@@ -28,7 +28,7 @@ EOF
 
 chkconfig postgresql-9.5 on
 	
-yum -y install /vagrant/jive_sbs_employee-9.0.0.0.el6.x86_64.rpm
+yum -y install /vagrant/jive_sbs_employee-9.0.1.0.el6.x86_64.rpm
 
 #https://static.jiveon.com/docconverter
 wget https://static.jiveon.com/docconverter/jive_pdf2swf-0.9.1-a_RHEL_6.x86_64.rpm
